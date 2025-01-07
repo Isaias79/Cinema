@@ -1,0 +1,31 @@
+.titulo {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2em;
+}
+
+.cardFilme {
+    border: 1px solid #ddd;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.cardFilme img {
+    width: 30%;
+    height: auto;
+}
+
+input:first-child {
+    width: 90%;
+    
+}
+input{
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
